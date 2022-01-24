@@ -10,7 +10,8 @@
 <div> 
   <a href = "mailto:samuelhenrique222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuelhmaciel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-<!--   ![Snake animation](https://github.com/samuelhms/samuelhms/blob/output/github-contribution-grid-snake.svg) -->
+
+ ### Melhor que ver, jogue um dos meus projetos, o Snake Game!
+  ![Snake Game](https://samuelhms.github.io/Snake-Game-JS/)
  
 </div>
