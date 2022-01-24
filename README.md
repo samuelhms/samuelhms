@@ -13,6 +13,7 @@
 
  ##
  ### Melhor que ver, jogue um dos meus projetos, o Snake Game!
+  <p>Use as setas do teclado (PC)</p>
  [Snake Game](https://samuelhms.github.io/Snake-Game-JS/)
  
 </div>
